@@ -9,7 +9,7 @@
  * I couldn't get the output to go to three decimal places. tried using DecimalFormat but it was only coming out
  * as a whole integer.
  * 
- * Also realize I clean this up but putting the calculations and such into methods but I'm still a bit shaky on that, going to practice this weekend
+ * Also realize I could clean this up by putting the calculations and such into methods but I'm still a bit shaky on that, going to practice this weekend
  * 
  */
 
